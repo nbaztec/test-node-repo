@@ -23,7 +23,7 @@
     "jsonwebtoken": "7.3.0",
     "lodash": "4.17.4",
     "logstash-client": "1.1.1",
-    "moment": "2.18.1",
+    "moment": "2.22.2",
     "mongo-sql": "4.0.0",
     "morgan": "1.8.1",
     "node-pg-migrate": "2.3.0",
